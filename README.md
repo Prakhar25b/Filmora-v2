@@ -4,8 +4,9 @@ A movie discovery and tracking app built with **React + Vite**. Search any film,
 
 > **Upgrade from v1:** This version completely restructures the codebase — from a single `App.jsx` file into a proper multi-page app with routing, global state, custom hooks, a dedicated detail page, watch history, trending section, and optional TMDB integration.
 
----
+[🔗 Live Demo]( https://prakhar25b.github.io/Filmora-v2/) , [🔗 Vercel](https://filmora-movie-search-application.vercel.app/)
 
+---
 ## ✨ Features
 
 - 🔍 **Live search** — results appear as you type (500ms debounce, no button)
